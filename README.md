@@ -1,5 +1,5 @@
-# Name: Sri Vignesh G
-# Register Number: 212223040204
+# Name: B KRISHNAKANTH
+# Register Number: 212223230109
 
 # Linux-IPC-Semaphores
 
